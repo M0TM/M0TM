@@ -1,6 +1,6 @@
 <p align="center">
  <img src="https://github.com/M0TM/M0TM/blob/ea28147296379ab3a2f963961565ef9a15f50be9/341%20sin%20t%C3%ADtulo_20260418194103.png">
- <a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&extraCount=231&color=BABA97&labelColor=C87F48"/></a>
+ <a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=MOTM&extraCount=231&color=BABA97&labelColor=C87F48"/></a>
 <p align="center">
 <img src="https://github.com/M0TM/M0TM/blob/ea28147296379ab3a2f963961565ef9a15f50be9/341%20sin%20t%C3%ADtulo_20260418193809.png">
 <br>
